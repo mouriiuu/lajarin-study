@@ -36,3 +36,5 @@ elif umur >17 and umur <50:
     print("dewasa tapi korupsi")
 else:
     print("aku kecil dan aku masih bahagia")
+
+# sip bagus

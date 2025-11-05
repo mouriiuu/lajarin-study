@@ -22,3 +22,5 @@ elif 17 < umur <= 50:
     print("dewasa tapi korupsi")
 else:
     print("aku kecil dan aku masih bahagia")
+    
+# ini betul

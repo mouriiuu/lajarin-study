@@ -23,3 +23,5 @@ elif umur <50 and umur >17:
     print('dewasa korupsi')
 else:
     print('aku kecil')
+    
+    # lumayan lah
