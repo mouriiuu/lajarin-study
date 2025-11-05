@@ -28,7 +28,7 @@ a = "apel" #string
 angka = '5' #char
 
 # ini betul tapi curang
-umur = input("masukkan umur:")
+umur = int(input("masukkan umur:"))
 
 if umur > 50:
     print("tua woy")
