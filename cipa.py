@@ -15,12 +15,20 @@
 
 # ini BETUL!
 
-umur = 50
-if umur > 50:
-    print("TUA WOY")
-elif 17 < umur <= 50:
-    print("dewasa tapi korupsi")
-else:
-    print("aku kecil dan aku masih bahagia")
+# umur = 50
+# if umur > 50:
+#     print("TUA WOY")
+# elif 17 < umur <= 50:
+#     print("dewasa tapi korupsi")
+# else:
+#     print("aku kecil dan aku masih bahagia")
     
 # ini betul
+
+print ("game madlibs")
+text1 = input("text pertama: ")
+text2 = input("text kedua: ")
+text3 = input("text ketiga: ")
+print("aku hidup dengan", text1)
+print("aku jalan dengan", text2)
+print("aku benci dengan", text3)
