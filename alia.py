@@ -25,3 +25,11 @@ else:
     print('aku kecil')
     
     # lumayan lah
+
+print('game madlids')
+nama = input('nama : ')
+nama2 = input('nama2: ')
+nama3 = input('nama3: ')
+print('aku hidup dengan', nama)
+print('aku benci dengan', nama2)
+print('aku jalan dengan', nama3)
