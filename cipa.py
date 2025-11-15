@@ -33,5 +33,22 @@ print("aku hidup dengan", text1)
 print("aku jalan dengan", text2)
 print("aku benci dengan", text3)
 
-
 # mantab 100/100
+
+print("DATA MAHASISWA")
+username = input("masukkan username: ")
+try:
+    umur = int(input("masukkan umur: "))
+    ipk = float(input("masukkan IPK: "))
+except ValueError:
+    print("ERROR: umur & IPK harus angka!")
+    exit()
+status_input = input("apakah mahasiswa aktif? (ya/tidak): ")
+if status_input == "ya" :
+    status = True
+else:
+    False
+print("\n=== OUTPUT ===")
+print(f"username: {username} | umur: {umur}")
+print(f"IPK: {ipk}, status: {status}")
+print(f"mahasiswa {username} berstatus aktif: {status}")
