@@ -58,6 +58,29 @@ from prettytable import PrettyTable
 # except FileNotFoundError:
 #     print("File tidak ditemukan!")
 
+# r
+# w (list lain)
+
+#data.csv
+# 1
+# 2
+# 3
+
+#simpan
+# 1
+# 2 
+# 3
+
+# list lain
+# 1
+# 4
+# 3
+
+# data_lain
+# biodatalain
+
+#digabung
+# data + biodatalain
 
 #
 #
